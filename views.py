@@ -6,3 +6,6 @@ def index(request):
 
 def login(request):
     return ('/index')
+
+def print():
+    print('python')
